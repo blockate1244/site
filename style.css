@@ -1,0 +1,43 @@
+body {
+    background-color: #0e161b
+}
+
+.hi {
+    font-family: 'Jost', cursive;
+    font-size: 25px;
+    background: -webkit-linear-gradient(right,#FF116B, #FF6212);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    color:#ffffff
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.Discord1 {
+    font-family: 'Jost', cursive;
+    font-size: 25px;
+ color: #ffffff
+}
+
+.Roblox1 {
+    font-family: 'Jost', cursive;
+    font-size: 25px;
+ color: #ffffff
+}
+
+.fart {
+    font-family: 'Jost', cursive;
+    font-size: 15px;
+ color: #ffffff;
+ display: flex;
+ justify-content: center;
+}
+}
